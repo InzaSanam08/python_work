@@ -40,4 +40,7 @@ a = [1,2,3,4,5,6,7,8,9,10]
 x = ('its','Time','To','Achieve','Goals')
 a = (1,2,3,4,5,6,7,8,9,10)
 
+# Mapping Type : dict:-
 
+x = {'Name':'Ahmed','Age': 16,'City':'Karachi'}
+a = {1:'Apple',2:'Banana',3:'Kiwi' }

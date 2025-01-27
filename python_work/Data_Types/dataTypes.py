@@ -14,18 +14,32 @@
 # Binary Types:	    bytes, bytearray, memoryview
 # None Type:	    NoneType
 
+# ------------------------------------------------------------------
+# Assigning a string to a variable is done with the variable name followed by an equal sign and the string:
+# ------------------------------------------------------------------
+# 
+# ------------------------------------------------------------------
+# (-:You can display a string literal with the print() function:-)
+# ------------------------------------------------------------------
+# You can display yor code print() function:
+# ------------------------------------------------------------------
+
 
 # Text Type : str :-
+# Strings
+# Strings in python are surrounded by either single quotation marks, or double quotation marks.
 
 x = 'Programing World'
 a = 'My first program'
 
 # Numeric Types : int:-
+# Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
 
 x = 11
 a = 44
 
 # Numeric Types : float:-
+# Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
 
 x = 22.0
 a = 11.5

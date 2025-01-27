@@ -31,3 +31,13 @@ x = 22.0
 a = 11.5
 
 # Sequence Types : list :-
+
+x = ['Hello','Programers','world']
+a = [1,2,3,4,5,6,7,8,9,10]
+
+#  Sequence Types : tuple:-
+
+x = ('its','Time','To','Achieve','Goals')
+a = (1,2,3,4,5,6,7,8,9,10)
+
+

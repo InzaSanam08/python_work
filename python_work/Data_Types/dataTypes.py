@@ -49,3 +49,7 @@ a = {1:'Apple',2:'Banana',3:'Kiwi' }\
 
 x = True
 a = False
+
+# None Type : None:-
+
+x = None

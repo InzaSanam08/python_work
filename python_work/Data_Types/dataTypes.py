@@ -45,11 +45,16 @@ x = 22.0
 a = 11.5
 
 # Sequence Types : list :-
+# Lists are used to store multiple items in a single variable.
+# Lists are created using square brackets:
 
 x = ['Hello','Programers','world']
 a = [1,2,3,4,5,6,7,8,9,10]
 
 #  Sequence Types : tuple:-
+# Tuples are used to store multiple items in a single variable.
+# A tuple is a collection which is ordered and unchangeable.
+# Tuples are written with round brackets.
 
 x = ('its','Time','To','Achieve','Goals')
 a = (1,2,3,4,5,6,7,8,9,10)
@@ -57,9 +62,12 @@ a = (1,2,3,4,5,6,7,8,9,10)
 # Mapping Type : dict:-
 
 x = {'Name':'Ahmed','Age': 16,'City':'Karachi'}
-a = {1:'Apple',2:'Banana',3:'Kiwi' }\
+a = {1:'Apple',2:'Banana',3:'Kiwi' }
 
-# Boolean Type : bool:-
+# # Boolean Type : bool:-
+# In programming you often need to know if an expression is True or False.
+# You can evaluate any expression in Python, and get one of two answers, True or False.
+# When you compare two values, the expression is evaluated and Python returns the Boolean answer:
 
 x = True
 a = False

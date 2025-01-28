@@ -1,3 +1,5 @@
+#        String[str] : Integar[int]:- Practice 
+
 name = 'Ali'
 age = 15
 print(name,age)
@@ -9,3 +11,12 @@ print(studentDetail[0])
 print(type(studentDetail))
 # length of studentDetail 
 print(len(studentDetail))
+
+#         Float[]
+
+
+
+
+#         Booleans[bool]
+
+

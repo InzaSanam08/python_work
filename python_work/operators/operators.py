@@ -20,17 +20,16 @@
 #    /  	Division		
 #    %	    Modulus
 #   **  	Exponentiation	
-#   //	    Floor division	x 
+#   //	    Floor division	
 
 
+# Addition
+print('Addition')
 x = 7
 a = 3
 print(x+a)
-
 b = x+a
 print(b)
-
-
 
 
 # Python Assignment Operators

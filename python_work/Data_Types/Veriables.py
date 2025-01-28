@@ -29,8 +29,11 @@ print(isStudentPresent)
 
 fruits = [5.2,1,2,3,'Apple','Banana',True,False]
 
+#  printing list elements
 print(fruits)
+# list type
 print(type(fruits))
+# list length
 print(len(fruits))
 
 #       Access List of Elements by index 

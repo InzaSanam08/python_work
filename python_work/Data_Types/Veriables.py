@@ -43,6 +43,15 @@ print(fruits[:2])
 print(fruits[1:])
 print(fruits[5:-1])
 
+# list Methods
+
+#  Adding elements in list
+fruits.append ('Kiwi')
+print(fruits)
+
+# Adding elements on specifice index
+fruits.insert(8, True )
+print(fruits)
 
 #        dictionery[=dict]
 

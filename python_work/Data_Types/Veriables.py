@@ -18,12 +18,25 @@ x = 2.0
 print(x)
 
 
-#         Booleans[bool]
+#        Booleans[bool]
 
 isStudentPresent = True
 
 print(isStudentPresent)
 
+
+
+
+
+
+
+
+
+#        dictionery[=dict]
+
+schoolDetail:[dict] = {'class':{
+
+}}
 
 
 

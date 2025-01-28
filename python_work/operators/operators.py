@@ -74,6 +74,14 @@ a = 5
 print(a**x) 
 
 
+# Floor division
+print( 'Floor division')
+
+x = 4
+a = 2
+print(a//x) 
+
+
 
 
 

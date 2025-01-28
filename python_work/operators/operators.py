@@ -32,6 +32,20 @@ b = x+a
 print(b)
 
 
+
+#Subtraction
+print( 'Subtraction')
+x = 5
+a = 2
+print(x-a)
+b = x - a
+print(b)
+
+
+
+
+
+
 # Python Assignment Operators
 # Assignment operators are used to assign values to variables:
 

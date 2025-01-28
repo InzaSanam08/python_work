@@ -25,11 +25,16 @@ isStudentPresent = True
 print(isStudentPresent)
 
 
+#       list
 
+fruits = [5.2,1,2,3,'Apple','Banana',True,False]
 
+print(fruits)
+print(type(fruits))
+print(len(fruits))
 
-
-
+#       Access List of Elements by index 
+  
 
 
 #        dictionery[=dict]

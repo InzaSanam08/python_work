@@ -61,6 +61,12 @@ print(fruits)
 
 fruits.pop(5)
 print(fruits)
+del fruits[7]
+print(fruits)
+
+fruits.clear()
+print(fruits)
+
 
 
 #        dictionery[=dict]

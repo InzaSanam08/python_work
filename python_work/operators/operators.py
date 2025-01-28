@@ -43,6 +43,16 @@ print(b)
 
 
 
+# Multiplication
+print( 'Multiplication')
+x = 2
+a = 2 
+print(a*x)
+
+
+
+
+
 
 
 

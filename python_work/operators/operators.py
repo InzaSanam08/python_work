@@ -25,6 +25,7 @@
 
 # Addition
 print('Addition')
+
 x = 7
 a = 3
 print(x+a)
@@ -35,6 +36,7 @@ print(b)
 
 #Subtraction
 print( 'Subtraction')
+
 x = 5
 a = 2
 print(x-a)
@@ -45,13 +47,13 @@ print(b)
 
 # Multiplication
 print( 'Multiplication')
+
 x = 2
 a = 2 
 print(a*x)
 
 
 # Division	
-
 print( 'Division')
 
 x = 2 

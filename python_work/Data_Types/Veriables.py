@@ -14,7 +14,8 @@ print(len(studentDetail))
 
 #         Float
 
-
+x = 2.0
+print(x)
 
 
 #         Booleans[bool]

@@ -14,13 +14,13 @@
 # Arithmetic operators are used with numeric values to perform common mathematical operations:
 
 # Operator	Name	
-#    +        Addition	
+#    +          Addition	
 #    -  	Subtraction
 #    *  	Multiplication		
 #    /  	Division		
-#    %	      Modulus
+#    %	        Modulus
 #   **  	Exponentiation	
-#   //	      Floor division	
+#   //	        Floor division	
 
 
 # Addition

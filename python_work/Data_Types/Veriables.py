@@ -53,6 +53,16 @@ print(fruits)
 fruits.insert(8, True )
 print(fruits)
 
+#    remove elements from list
+fruits.remove(1)
+print(fruits)
+
+#  remove specific indxe
+
+fruits.pop(5)
+print(fruits)
+
+
 #        dictionery[=dict]
 
 schoolDetail:[dict] = {'class':{

@@ -50,6 +50,14 @@ a = 2
 print(a*x)
 
 
+# Division	
+
+print( 'Division')
+
+x = 2 
+a = 2
+print(2/2)
+
 
 
 

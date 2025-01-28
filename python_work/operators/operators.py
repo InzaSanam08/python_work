@@ -66,6 +66,14 @@ a = 4
 print(x%a)
 
 
+# Exponentiation
+print( 'Exponentiation')
+
+x = 8
+a = 5
+print(a**x) 
+
+
 
 
 

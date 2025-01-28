@@ -58,6 +58,12 @@ x = 2
 a = 2
 print(2/2)
 
+# Modulus
+print( 'Modulus')
+
+x = 6
+a = 4
+print(x%a)
 
 
 

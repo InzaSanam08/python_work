@@ -12,11 +12,17 @@ print(type(studentDetail))
 # length of studentDetail 
 print(len(studentDetail))
 
-#         Float[]
+#         Float
 
 
 
 
 #         Booleans[bool]
+
+isStudentPresent = True
+
+print(isStudentPresent)
+
+
 
 
